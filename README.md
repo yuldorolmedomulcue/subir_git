@@ -1,12 +1,12 @@
 # subir_git
 Cómo hacer un primer commit en GitHub
-1) Inicializar un repositorio de Git:
+1)Inicializar un repositorio de Git:
 git init
 
 2)Agregar archivos al área de preparación (staging area):
 git add .
 
-3) Hacer el primer commit:
+3)Hacer el primer commit:
 git commit -m "Primer commit"
 
 4)Agregar el repositorio remoto (si aún no se ha hecho):
