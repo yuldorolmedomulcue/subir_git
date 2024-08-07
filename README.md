@@ -1,5 +1,6 @@
 # subir_git
 Cómo hacer un primer commit en GitHub
+
 1)Inicializar un repositorio de Git:
 git init
 
