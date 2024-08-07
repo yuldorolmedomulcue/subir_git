@@ -17,8 +17,11 @@ git remote add origin https://github.com/usuario/nombre-del-repo.git
 git push -u origin master
 
 /*-----------------------------------------------------------------------------------------------------------------------------*/
+
 Ejemplo:
+
 Supongamos que has creado un nuevo proyecto y tienes un archivo README.md. Aquí están los comandos completos:
+
 
 mkdir mi-proyecto
 cd mi-proyecto
@@ -28,5 +31,6 @@ git add README.md
 git commit -m "Primer commit"
 git remote add origin https://github.com/usuario/mi-proyecto.git
 git push -u origin master
+
 
 Con esto, has creado un primer commit en tu nuevo repositorio en GitHub, estableciendo la base para todo el desarrollo futuro.
