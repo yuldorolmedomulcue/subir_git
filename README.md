@@ -24,12 +24,19 @@ Supongamos que has creado un nuevo proyecto y tienes un archivo README.md. Aquí
 
 
 mkdir mi-proyecto
+
 cd mi-proyecto
+
 git init
+
 echo "# Mi Proyecto" > README.md
+
 git add README.md
+
 git commit -m "Primer commit"
+
 git remote add origin https://github.com/usuario/mi-proyecto.git
+
 git push -u origin master
 
 
