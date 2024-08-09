@@ -41,3 +41,15 @@ git push -u origin master
 
 
 Con esto, has creado un primer commit en tu nuevo repositorio en GitHub, estableciendo la base para todo el desarrollo futuro.
+
+/*--------------------------------------------------------*/Actualizar proyecto--------------------------------------------------------*/
+
+git status               # Verifica el estado de los archivos en tu repositorio local
+
+git add .                # Añade todos los archivos cambiados al área de preparación
+
+git commit -m "Tu mensaje de commit"   # Crea un commit con los cambios añadidos
+
+git push origin main     # Envía los cambios al repositorio en GitHub
+
+
